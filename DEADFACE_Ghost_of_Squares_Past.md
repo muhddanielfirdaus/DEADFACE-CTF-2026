@@ -33,10 +33,10 @@ Example: deadface{1990-1982-1956-1985-smith}
 Target Domain / Assets Provided:
 
 - Point 2 Image:
-![Point 2](Images/Point 2 - Ghost of Squares Past.png)
+![Point 2](Images/Point%202%20-%20Ghost%20of%20Squares%20Past.png)
 
 - Point 4 Image:
-![Point 4](Images/Point 4 - Ghost of Squares Past.png)
+![Point 4](Images/Point%204%20-%20Ghost%20of%20Squares%20Past.png)
 
 
 ## 2. SPATIAL & HISTORICAL OSINT FRAMEWORK (THE OGLETHORPE PLAN)
@@ -131,7 +131,7 @@ Location Profile:
 ### POINT 2: EAST — Location Photograph
 
 **Clue URL:**
-![Point 2](Images/Point 2 - Ghost of Squares Past.png)
+![Point 2](Images/Point%202%20-%20Ghost%20of%20Squares%20Past.png)
 
 Image Retrieval & Local Extraction:
 
