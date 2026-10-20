@@ -22,7 +22,11 @@ The key is to focus on details that can identify the vehicle's operator rather t
 
 ## 2. Initial Image Review
 
-The image depicts a collision involving a white box truck and a dark-coloured sedan. Police and bystanders can also be seen around the scene.
+The supplied evidence image shows a collision involving a white box truck and a dark-coloured sedan. Police and bystanders are visible around the scene.
+
+![Original truck crash evidence](Images/truck_crash.png)
+
+*Figure 1: Original crash-scene photograph supplied with the challenge.*
 
 Several background details could help locate the incident, including:
 
@@ -32,13 +36,17 @@ Several background details could help locate the incident, including:
 
 These details suggest a location around the SeaTac / Des Moines area of Washington State. However, determining the precise crash location is not necessary to answer the challenge's main question.
 
-The most useful next step is to inspect the truck itself for registration or identification markings.
+The same image can then be inspected more closely for registration or identification markings on the truck.
 
 ## 3. Identifying the Truck
 
-At first glance, the side of the truck's cargo box appears to have little or no prominent company branding. A closer inspection of the image reveals a small regulatory marking near the upper-right area of the cargo box.
+The truck's cargo box has little prominent company branding, but a closer look at the **same evidence image** reveals a small regulatory marking near the upper-right area of the box.
 
-**Identifier found:**
+![Truck crash evidence used to inspect the USDOT marking](Images/truck_crash.png)
+
+*Figure 2: The same original image is used for this step. Zoom in on the upper-right portion of the truck's cargo box to inspect the marking; no separate evidence screenshot was available.*
+
+**Identifier observed:**
 
 ```text
 USDOT: 080806
@@ -46,7 +54,7 @@ USDOT: 080806
 
 A USDOT number is an identifier associated with motor carriers registered with the United States Department of Transportation. It can be used to search public carrier-registration and safety records.
 
-This number provides a direct lead for identifying the company connected to the truck.
+This number provides a lead for identifying the company connected to the truck. No additional search-result or registry screenshots are included because the crash photograph is the only evidence image available.
 
 ## 4. Investigating the USDOT Number
 
