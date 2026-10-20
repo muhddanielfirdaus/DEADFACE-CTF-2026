@@ -38,6 +38,7 @@ Target Domain / Assets Provided:
 
 
 ## 2. SPATIAL & HISTORICAL OSINT FRAMEWORK (THE OGLETHORPE PLAN)
+
 Savannah, Georgia is celebrated worldwide for the "Oglethorpe Plan", an urban
 layout conceived in 1733 by General James Edward Oglethorpe. The plan organizes
 the city into repeating modular units called "wards". Each ward consists of a
@@ -85,10 +86,7 @@ Est: 1815
 
 ## 3. DETAILED STEP-BY-STEP POINT INVESTIGATION
 
-
-
 ### POINT 1: NORTH — Riddle
-
 
 **Clue Text:**
 > "First of them all, where the city began,
@@ -125,9 +123,7 @@ Location Profile:
 - Reference: https://georgiahistory.com/ghmi_marker_updated/johnson-square/
 
 
-
 ### POINT 2: EAST — Location Photograph
-
 
 **Clue URL:**
 - <https://deadface.sfo3.cdn.digitaloceanspaces.com/2026/challenges/osint/osint01/a21a3987-a4a5-4f3a-bdbc-c7e291e62459.png>
@@ -172,7 +168,6 @@ Location Profile:
 
 ### POINT 3: SOUTH — Riddle
 
-
 **Clue Text:**
 > "Just a ways away a battle of a northern frontier
 Gave its name to this ground eighteen-twelve drawing near.
@@ -214,7 +209,6 @@ Location Profile:
 
 
 ### POINT 4: WEST — Location Photograph
-
 
 **Clue URL:**
 - <https://deadface.sfo3.cdn.digitaloceanspaces.com/2026/challenges/osint/osint01/ffd355b4-85e9-439e-bc6a-ee04524d05ac.png>
@@ -258,9 +252,7 @@ Location Profile:
 - Reference: https://www.telfair.org/visit/telfair-academy/
 
 
-
 ### POINT 5: CENTER — Riddle & Monument Surname Inscription
-
 
 **Clue Text:**
 > "Four points now marked, good work, you did your best
@@ -303,9 +295,7 @@ Location Profile:
 - Reference: https://georgiahistory.com/ghmi_marker_updated/wright-square/
 
 
-
 ## 4. FLAG SYNTHESIS & VERIFICATION MATRIX
-
 
 +---------+-----------+-------------------+-------------+----------------------+
 | Point   | Direction | Square Name       | Estab. Year | Monument / Target    |
@@ -329,7 +319,6 @@ Location Profile:
 `deadface{1733-1742-1815-1733-gordon}`
 
 
-
 ## 5. OSINT LESSONS & INVESTIGATION TAKEAWAYS
 
 1. Geospatial Alignment:
@@ -337,14 +326,14 @@ When CTF challenges mention geometric or compass alignments ("compass pattern",
 > "cardinal directions", "meeting point"), plotting the targets on a satellite
 or historical GIS map quickly validates hypotheses and eliminates outlier
 candidates.
+
 2. Architecture as an Anchor:
 The visual identification of historical landmarks (such as the William Jay-
 designed Telfair Academy and Owens-Thomas House) provided definitive visual
 grounding for photographic clues without requiring metadata or reverse-image
 search hits.
+
 3. Riddle Double-Verification:
 Every riddle contained multiple independent checks (e.g., War of 1812 battle,
 Forrest Gump pop-culture reference, and Oglethorpe statue), ensuring 100%
 confidence before final flag submission.
-
-END OF WRITEUP
