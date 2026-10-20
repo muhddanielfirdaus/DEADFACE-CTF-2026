@@ -329,17 +329,17 @@ Location Profile:
 
 1. Geospatial Alignment:
 When CTF challenges mention geometric or compass alignments ("compass pattern",
-> "cardinal directions", "meeting point"), plotting the targets on a satellite
+"cardinal directions", "meeting point"), plotting the targets on a satellite
 or historical GIS map quickly validates hypotheses and eliminates outlier
 candidates.
 
-2. Architecture as an Anchor:
+3. Architecture as an Anchor:
 The visual identification of historical landmarks (such as the William Jay-
 designed Telfair Academy and Owens-Thomas House) provided definitive visual
 grounding for photographic clues without requiring metadata or reverse-image
 search hits.
 
-3. Riddle Double-Verification:
+4. Riddle Double-Verification:
 Every riddle contained multiple independent checks (e.g., War of 1812 battle,
 Forrest Gump pop-culture reference, and Oglethorpe statue), ensuring 100%
 confidence before final flag submission.
