@@ -139,6 +139,7 @@ Location Profile:
 Image Retrieval & Local Extraction:
 
 **Command:**
+
 curl.exe -s -o point2.png "https://deadface.sfo3.cdn.digitaloceanspaces.com/2026/challenges/osint/osint01/a21a3987-a4a5-4f3a-bdbc-c7e291e62459.png"
 ```
 
@@ -226,6 +227,7 @@ curl.exe -s -o point4.png "https://deadface.sfo3.cdn.digitaloceanspaces.com/2026
 ```
 
 Visual Forensics & Geolocation Analysis:
+
 1. Visual Features in Photo:
 - Curved low red-brick retaining wall enclosing lush green ornamental
 shrubbery (liriope/agapanthus) and mulch.
@@ -234,6 +236,7 @@ parking stall striping.
 - Background (Right): A monumental two-story classical Regency-style mansion
 with a pale stucco exterior finish, grand entrance portico, classical
 cornice, and distinctive architectural styling.
+
 2. Landmark Identification:
 - The prominent building on the right is the historic Telfair Academy
 mansion (located at 121 Barnard Street). Built in 1818 by English
@@ -242,9 +245,11 @@ first public art museum in the American South.
 - The curved brick planter wall and trees sit directly on the southwest
 corner of Telfair Square looking east across Barnard Street toward the
 Telfair Academy.
+
 3. Grid Positioning:
 - Heading directly West of Wright Square along West State Street brings us
 to Barnard Street and West President Street, which forms Telfair Square.
+
 4. Establishment Year:
 - Laid out in 1733 as "St. James Square", one of the four original squares
 of General Oglethorpe's founding plan. It was officially renamed Telfair
@@ -267,6 +272,7 @@ Carry their years in that order, and seek the lone name
 Carved in the stone where their center lays claim."
 
 OSINT Deductions & Monument Forensics:
+
 1. "Their meeting point holds the key to this test":
 Connecting the four compass endpoints:
 - North-South Line: Johnson Square (North) to Chippewa Square (South)
@@ -275,6 +281,7 @@ along Bull Street.
 along State / President Street.
 The exact midpoint and intersection of these two cardinal axes is
 WRIGHT SQUARE (located at Bull Street and State / York Street).
+
 2. The Central Monument:
 Wright Square was originally the burial site of Tomochichi, the Yamacraw
 Creek chief who welcomed Oglethorpe. However, in 1883, the city erected a
@@ -283,6 +290,7 @@ William Washington Gordon (1796–1842).
 Gordon was a prominent Georgia politician, mayor of Savannah, and the
 founder and first president of the Central Railroad and Banking Company
 of Georgia.
+
 3. "seek the lone name Carved in the stone":
 Examining the William Washington Gordon Monument:
 - The monument consists of a high granite base designed by architect
