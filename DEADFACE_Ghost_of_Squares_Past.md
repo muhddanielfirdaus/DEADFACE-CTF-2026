@@ -83,7 +83,6 @@ Chippewa Square
 Est: 1815
 
 
-
 ## 3. DETAILED STEP-BY-STEP POINT INVESTIGATION
 
 ### POINT 1: NORTH — Riddle
@@ -95,16 +94,19 @@ A Quaker from Rhode Island sleeps under stone here
 Mark the year this first square was laid out, and draw near."
 
 OSINT Deductions & Historical Verification:
+
 1. "First of them all, where the city began":
 When General James Oglethorpe founded the colony of Georgia in 1733, the
 very first square laid out in the settlement plan was Johnson Square, named
 after Robert Johnson, the Royal Governor of South Carolina who aided the
 new colony.
+
 2. "A banker's green heart in Oglethorpe's plan":
 Johnson Square has historically served as the commercial and banking capital
 of Savannah. Often referred to by locals as "the banking square", it is
 flanked by prominent financial institutions, including the historic Citizens
 and Southern National Bank and SunTrust bank buildings.
+
 3. "A Quaker from Rhode Island sleeps under stone here":
 Major General Nathanael Greene (born August 7, 1742, in Potowomut/Warwick,
 Rhode Island) was raised in a devout Quaker household. A brilliant strategist
@@ -112,6 +114,7 @@ under George Washington during the American Revolutionary War, Greene died
 in Georgia in 1786. In 1902, his remains (along with his son George Washington
 Greene) were reinterred directly beneath the 50-foot white marble obelisk
 (the Nathanael Greene Monument) in the center of Johnson Square.
+
 4. Establishment Year:
 Johnson Square was laid out in 1733.
 
@@ -165,7 +168,6 @@ Location Profile:
 - Reference: https://www.telfair.org/visit/owens-thomas/
 
 
-
 ### POINT 3: SOUTH — Riddle
 
 **Clue Text:**
@@ -205,7 +207,6 @@ Location Profile:
 - Established: 1815
 - Source Reference: https://en.wikipedia.org/wiki/Chippewa_Square
 - Reference: https://georgiahistory.com/ghmi_marker_updated/chippewa-square/
-
 
 
 ### POINT 4: WEST — Location Photograph
