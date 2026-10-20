@@ -1,4 +1,4 @@
-# DEADFACE CTF 2026 — Challenge Write-Up
+# DEADFACE CTF 2026 — Ghost of Squares Past Challenge Write-Up
 
 - **Challenge Name: Ghost of Squares Past**
 - **Category:** OSINT / Geolocation
@@ -31,10 +31,12 @@ Format: deadface{YYYY-YYYY-YYYY-YYYY-surname}
 Example: deadface{1990-1982-1956-1985-smith}
 
 Target Domain / Assets Provided:
+
 - Point 2 Image:
-- <https://deadface.sfo3.cdn.digitaloceanspaces.com/2026/challenges/osint/osint01/a21a3987-a4a5-4f3a-bdbc-c7e291e62459.png>
+![Point 2](Images/Point 2 - Ghost of Squares Past.png)
+
 - Point 4 Image:
-- <https://deadface.sfo3.cdn.digitaloceanspaces.com/2026/challenges/osint/osint01/ffd355b4-85e9-439e-bc6a-ee04524d05ac.png>
+![Point 4](Images/Point 4 - Ghost of Squares Past.png)
 
 
 ## 2. SPATIAL & HISTORICAL OSINT FRAMEWORK (THE OGLETHORPE PLAN)
@@ -129,7 +131,7 @@ Location Profile:
 ### POINT 2: EAST — Location Photograph
 
 **Clue URL:**
-- <https://deadface.sfo3.cdn.digitaloceanspaces.com/2026/challenges/osint/osint01/a21a3987-a4a5-4f3a-bdbc-c7e291e62459.png>
+![Point 2](Images/Point 2 - Ghost of Squares Past.png)
 
 Image Retrieval & Local Extraction:
 
