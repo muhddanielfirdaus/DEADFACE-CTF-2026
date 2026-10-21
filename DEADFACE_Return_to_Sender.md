@@ -32,7 +32,7 @@ HTTP `POST` requests are not inherently malicious, but repeated uploads to the s
 
 **Evidence 1 — HTTP POST requests:** Add a screenshot from your PCAP showing the POST requests in Wireshark.
 
-![HTTP POST requests in Wireshark](Images/http-post-requests.png)
+![HTTP POST requests in Wireshark](Images/http-post.png)
 
 ## 3. Identifying the Suspicious Destination
 
@@ -60,7 +60,7 @@ The numbered upload requests suggest that the data is being divided into fragmen
 
 **Evidence 2 — Suspicious upload pattern:** Add a screenshot showing the destination, upload URI, and relevant HTTP headers.
 
-![Suspicious HTTP upload requests](Images/http-suspicious-uploads.png)
+![Suspicious HTTP upload requests](Images/sus-upload.png)
 
 ## 4. Extracting the Encoded Fragments
 
@@ -88,23 +88,23 @@ The screenshots below show the request bodies for each sequence number. The payl
 
 **Sequence 1 — Packet 111**
 
-![Encoded fragment, sequence 1](Images/fragment-seq-1.png)
+![Encoded fragment, sequence 1](Images/fragment1.png)
 
 **Sequence 2 — Packet 153**
 
-![Encoded fragment, sequence 2](Images/fragment-seq-2.png)
+![Encoded fragment, sequence 2](Images/fragment2.png)
 
 **Sequence 3 — Packet 185**
 
-![Encoded fragment, sequence 3](Images/fragment-seq-3.png)
+![Encoded fragment, sequence 3](Images/fragment3.png)
 
 **Sequence 4 — Packet 219**
 
-![Encoded fragment, sequence 4](Images/fragment-seq-4.png)
+![Encoded fragment, sequence 4](Images/fragment4.png)
 
 **Sequence 5 — Packet 259**
 
-![Encoded fragment, sequence 5](Images/fragment-seq-5.png)
+![Encoded fragment, sequence 5](Images/fragment5.png)
 
 ## 5. Decoding the Request-Body Data
 
@@ -169,7 +169,3 @@ deadface{http_exfil_sneaky_business}
 - [Wireshark Display Filter Reference — HTTP](https://www.wireshark.org/docs/dfref/h/http.html)
 - [Wireshark User's Guide — Follow a TCP Stream](https://www.wireshark.org/docs/wsug_html_chunked/ChAdvFollowStreamSection.html)
 - [CyberChef](https://gchq.github.io/CyberChef/)
-
----
-
-*Evidence note: The eight screenshots in the `Images` folder were supplied from the Wireshark investigation of `PCAP03.pcap`. Evidence 4 uses a separate screenshot focused on the `X-Session-Id` header.*
