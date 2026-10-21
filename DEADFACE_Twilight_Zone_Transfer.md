@@ -2,14 +2,14 @@
 
 - **Challenge:** Twilight Zone Transfer
 - **Category:** Network Forensics / DNS
-- **Evidence file:** `PCAP04(1).pcap`
+- **Evidence file:** `PCAP04.pcap`
 - **Objective:** Inspect DNS traffic, identify an attempted DNS zone transfer, and recover the relevant challenge data.
 
 ---
 
 ## 1. Challenge Overview
 
-This challenge is investigated using a packet capture (`PCAP04(1).pcap`). The capture contains DNS requests and responses between `10.10.14.9` and `192.168.56.10`.
+This challenge is investigated using a packet capture (`PCAP04.pcap`). The capture contains DNS requests and responses between `10.10.14.9` and `192.168.56.10`.
 
 The main lead is a DNS **AXFR** request for the `deadface-cc.net` domain. AXFR is a DNS query type used to request a full copy of a DNS zone from an authoritative DNS server. If zone transfers are not restricted, they can disclose hostnames and other DNS records that should not necessarily be exposed to an arbitrary client.
 
